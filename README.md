@@ -1,4 +1,4 @@
-# Safemine: Revolutionizing Coal Mine Safety & Productivity
+# Safemine: "EMPOWERING SAFETY, ENSURING PRODUCTIVITY"
 
 **Safemine** is a next-generation digital platform designed to modernize the coal mining industry by enhancing safety protocols, streamlining shift operations, and ensuring multilingual accessibility. Our platform offers a comprehensive solution for real-time logging, worker tracking, and risk management.
 
